@@ -16,11 +16,11 @@ STM32-based pulse acquisition system using external interrupts, timers, OLED dis
 - Pulse interval measurement
 - OLED display
 - UART logging
+- CSV file saving
 
 ## Repository Structure
 
 Core/ -> Application source code
 
-Drivers/ -> STM32 HAL drivers
 
 project.ioc -> CubeMX configuration
