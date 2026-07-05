@@ -5,6 +5,7 @@ STM32-based pulse acquisition system using external interrupts, timers, OLED dis
 ## Hardware
 
 - STM32F103C6T6 Blue Pill
+- NE555 Timer
 - LM393 Comparator
 - SSD1306 OLED
 - CH340 USB-UART
