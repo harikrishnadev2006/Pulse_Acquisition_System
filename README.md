@@ -14,8 +14,8 @@ STM32-based pulse acquisition system using external interrupts, timers, OLED dis
 - Pulse counting
 - CPS calculation
 - Pulse interval measurement
-- OLED display
-- UART logging
+- Custom SSD1306 OLED drivers for display
+- UART logging 
 - CSV file saving
 
 ## Repository Structure
